@@ -11,20 +11,20 @@ void main() async {
 where `startupReason` is one of;
 
 ```
-StartupReasonUser                      = "User"
-iOSStartupReasonAnnotation             = "UIApplicationLaunchOptionsAnnotationKey"            
-iOSStartupReasonBluetoothCentrals      = "UIApplicationLaunchOptionsBluetoothCentralsKey"      
-iOSStartupReasonBluetoothPeripherals   = "UIApplicationLaunchOptionsBluetoothPeripheralsKey"   
-iOSStartupReasonCloudKitShareMetadata  = "UIApplicationLaunchOptionsCloudKitShareMetadataKey" 
-iOSStartupReasonLocalNotification      = "UIApplicationLaunchOptionsLocalNotificationKey"      
-iOSStartupReasonLocation               = "UIApplicationLaunchOptionsLocationKey"               
-iOSStartupReasonNewsstandDownloads     = "UIApplicationLaunchOptionsNewsstandDownloadsKey"     
-iOSStartupReasonRemoteNotification     = "UIApplicationLaunchOptionsRemoteNotificationKey"     
-iOSStartupReasonShortcutItem           = "UIApplicationLaunchOptionsShortcutItemKey"           
-iOSStartupReasonSourceApplication      = "UIApplicationLaunchOptionsSourceApplicationKey"      
-iOSStartupReasonURL                    = "UIApplicationLaunchOptionsURLKey"                 
-iOSStartupReasonUserActivityDictionary = "UIApplicationLaunchOptionsUserActivityDictionaryKey"
-iOSStartupReasonUserActivityType       = "UIApplicationLaunchOptionsUserActivityTypeKey"   
-iOSStartupReasonUser                   = StartupReasonUser    
-AndroidStartupReasonUser               = StartupReasonUser
+FlutterStartup.StartupReasonUser                      = "User"
+FlutterStartup.iOSStartupReasonAnnotation             = "UIApplicationLaunchOptionsAnnotationKey"            
+FlutterStartup.iOSStartupReasonBluetoothCentrals      = "UIApplicationLaunchOptionsBluetoothCentralsKey"      
+FlutterStartup.iOSStartupReasonBluetoothPeripherals   = "UIApplicationLaunchOptionsBluetoothPeripheralsKey"   
+FlutterStartup.iOSStartupReasonCloudKitShareMetadata  = "UIApplicationLaunchOptionsCloudKitShareMetadataKey" 
+FlutterStartup.iOSStartupReasonLocalNotification      = "UIApplicationLaunchOptionsLocalNotificationKey"      
+FlutterStartup.iOSStartupReasonLocation               = "UIApplicationLaunchOptionsLocationKey"               
+FlutterStartup.iOSStartupReasonNewsstandDownloads     = "UIApplicationLaunchOptionsNewsstandDownloadsKey"     
+FlutterStartup.iOSStartupReasonRemoteNotification     = "UIApplicationLaunchOptionsRemoteNotificationKey"     
+FlutterStartup.iOSStartupReasonShortcutItem           = "UIApplicationLaunchOptionsShortcutItemKey"           
+FlutterStartup.iOSStartupReasonSourceApplication      = "UIApplicationLaunchOptionsSourceApplicationKey"      
+FlutterStartup.iOSStartupReasonURL                    = "UIApplicationLaunchOptionsURLKey"                 
+FlutterStartup.iOSStartupReasonUserActivityDictionary = "UIApplicationLaunchOptionsUserActivityDictionaryKey"
+FlutterStartup.iOSStartupReasonUserActivityType       = "UIApplicationLaunchOptionsUserActivityTypeKey"   
+FlutterStartup.iOSStartupReasonUser                   = StartupReasonUser    
+FlutterStartup.AndroidStartupReasonUser               = StartupReasonUser
 ```
