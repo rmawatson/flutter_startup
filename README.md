@@ -26,5 +26,5 @@ iOSStartupReasonURL                    = "UIApplicationLaunchOptionsURLKey"
 iOSStartupReasonUserActivityDictionary = "UIApplicationLaunchOptionsUserActivityDictionaryKey"
 iOSStartupReasonUserActivityType       = "UIApplicationLaunchOptionsUserActivityTypeKey"   
 iOSStartupReasonUser                   = StartupReasonUser    
-androidStartupReasonUser               = StartupReasonUser
+AndroidStartupReasonUser               = StartupReasonUser
 ```
